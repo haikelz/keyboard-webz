@@ -1,0 +1,39 @@
+enable  : true
+title   : "Pengalaman Mereka"
+subtitle: "Apa yang mereka katakan tentang kami?"
+testimonial_item :
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Andi"
+    company_position: "Tukang Ketik, Developer"
+    quote : > 
+            "Wah gokil sih built custom keyboard dari Ilhamzz, bener-bener ajib eui" 
+
+  - thumb : "images/testimonial/user-thumb-two.jpg"
+    name  : "Budi"
+    company_position: "Akuntan"
+    quote : > 
+            "Custom keyboard dari Ilhamzz bener-bener mantep, feel nyaman, aesthetic, dan kita bisa request model keycapsnya(ya namanya juga custom keyboard XD)." 
+
+  - thumb : "images/testimonial/user-thumb-three.jpg"
+    name  : "Udin"
+    company_position: "PNS, Tech Enthusiast"
+    quote : > 
+            "Saya menyisihkan gaji sebulan untuk ini, dan Ilhamzz Custom Keyboard menjawab keinginan saya, pelayanannya bener-bener ramah, selalu ditanyain detail mau keyboardnya kayak gimana. Thanks." 
+
+  - thumb : "images/testimonial/user-thumb-four.jpg"
+    name  : "Ryou Azura"
+    company_position: "Karyawan"
+    quote : > 
+            "Satu kata: Awesome. Joss ga usah ragu sama Ilhamzz ini. Bayarnya bisa dicicil pulak" 
+
+  - thumb : "images/testimonial/user-thumb-five.jpg"
+    name  : "Sakura"
+    company_position: "Pengusaha"
+    quote : > 
+            "Mantap, keyboard bener-bener sesuai request. Semoga lancar terus." 
+
+  - thumb : "images/testimonial/Arima-Profile.jpg"
+    name  : "Roy"
+    company_position: "Guru"
+    quote : > 
+            "Disamping profesi saya sebagai guru, saya juga punya hobi dalam dunia mechanical keyboard. Dan custom mechanical keyboard dari Ilhamzz sangat memuaskan. Worth it!" 

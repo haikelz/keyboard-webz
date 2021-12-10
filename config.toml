@@ -1,4 +1,4 @@
-baseURL       = "http://ilhamzz.netlify.app"
+baseURL       = "https://ilhamzz.netlify.app"
 languageCode  = "en-us"
 title         = "Ilhamzz | Rajanya Custom Keyboard"
 theme         = "roxo"
